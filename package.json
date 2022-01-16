@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "learn from freecodecamp.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "respecker",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "node-cron": "^3.0.0",
+    "ora": "^6.0.1"
+  }
+}
